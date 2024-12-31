@@ -8,5 +8,6 @@ namespace C43_G05_OOP01
 {
     internal struct point
     {
+
     }
 }
